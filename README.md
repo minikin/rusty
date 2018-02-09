@@ -1,3 +1,3 @@
 # Rusty
 
-Rusty is siple web server on Rust
+Rusty is simple web server on Rust.
